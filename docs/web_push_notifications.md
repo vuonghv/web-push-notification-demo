@@ -41,7 +41,8 @@ The messaging server handles the routing.
     *Note: You don't need to know the URL of the message server. Each browser vendor manages it's own message server for its browser.*
 
  3. After the subscription flow, your app passes a subscription object back to your app server.
-    At some later point, your app server sends a message to the messaging server, which forwards it to the recipient.
+ 
+ 4. At some later point, your app server sends a message to the messaging server, which forwards it to the recipient.
 
 ## Browsers support
 
